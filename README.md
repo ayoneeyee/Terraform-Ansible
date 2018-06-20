@@ -1,9 +1,9 @@
 # Instructions;
 
 #NOTE!!! YOU MIGHT NEED TO REMOVE THE FOLLOWING FILES AS IT MIGHT DUPLICATE SOME RESOURCES LIKE ROUTE TABLE WHICH WILL COME BACK AS ERROR
-# If you are errors with defaul route table make sure to remove;  'terraform.tfstate' ,  'terraform.tfstate.backup'
+# If you are having errors with default route table make sure to remove;  'terraform.tfstate' ,  'terraform.tfstate.backup'
 
-# clone the git 
+# clone the git 'https://github.com/temitos2/Terraform-Ansible'
 
 # cd into the 'Terraform-Ansible' you will find the following files and directories
 
