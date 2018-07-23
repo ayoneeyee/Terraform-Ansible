@@ -5,7 +5,7 @@
 
 # clone the git 'https://github.com/temitos2/Terraform-Ansible'
 
-# Make sure to delete the .terraform folder, so that a new one is created when you run terraform plan
+# Make sure to delete the .terraform folder, so that a new one is created when you run terraform init or plan
 
 # cd into the 'Terraform-Ansible' you will find the following files and directories
 
