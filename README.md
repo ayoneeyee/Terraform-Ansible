@@ -5,6 +5,8 @@
 
 # clone the git 'https://github.com/temitos2/Terraform-Ansible'
 
+# Make sure to delete the .terraform folder, so that a new one is created when you run terraform plan
+
 # cd into the 'Terraform-Ansible' you will find the following files and directories
 
 database  img  main.tf  provider.tf  README.md  SCRIPTS  terraform.tfstate  terraform.tfstate.backup  terraform.tfvars  variables.tf  vpc  webserver
